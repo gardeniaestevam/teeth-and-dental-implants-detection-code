@@ -4,7 +4,7 @@ This repository contains the source code for a Yolov12-based machine learning mo
 
 ## Dataset
 
-The database used in this work is available in this repository.
+Database used in this work is available in this repository.
 
 ## Cite us 
 
