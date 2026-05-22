@@ -1,2 +1,11 @@
-# teeth-and-dental-implants-detection-code
-Source code for the proposed machine learning model in "Joint detection of teeth and dental implants in panoramic radiographs using attention-based YOLOv12"
+# Joint detection of teeth and dental implants in panoramic radiographs using attention-based YOLOv12 - Code
+
+This repository contains the source code for a Yolov12-based machine learning model for detecting teeth and dental implants in panoramic radiographs.
+
+## Dataset
+
+The database used in this work is available in this repository.
+
+## Cite us 
+
+Once the work is published, the DOI and the corresponding BibTeX entry will be available.
