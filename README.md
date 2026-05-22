@@ -8,4 +8,4 @@ The database used in this work is available in this repository.
 
 ## Cite us 
 
-Once the work is published, the DOI and the corresponding BibTeX entry will be available.
+Once the work is published, DOI and the corresponding BibTeX entry will be available.
